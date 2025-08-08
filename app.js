@@ -4,7 +4,7 @@
 // let paragrafo = document.querySelector('p');
 // paragrafo.innerHTML = 'Descubra o número secreto entre 1 e 10.';
 let listaDeNumerosSorteados = [];
-let numeroLimite = 100;
+let numeroLimite = 50;
 let numeroSecreto = gerarNumAleatorio();
 let tentativa = 1;
 
